@@ -23,12 +23,7 @@
             "img": "portfolio-first.grid.layout.png",
             "url": "https://github.com/ChasAcademy-Andy-Cheung/first-grid-layout/tree/main/first%20grid%20layout"
         },
-        {
-            "id": 2,
-            "text": "My Split check with tips app test",
-            "img": "splitcheck.png",
-            "url": "https://andyhkgswe.github.io/ANDYHKGSWE-js--splitta-notan/"
-        },
+  
         {
             "id": 3,
             "text": "My Number guessing game test",
