@@ -25,13 +25,13 @@
         },
         {
             "id": 2,
-            "text": "My Split check with tips app",
+            "text": "My Split check with tips app test",
             "img": "splitcheck.png",
             "url": "https://andyhkgswe.github.io/ANDYHKGSWE-js--splitta-notan/"
         },
         {
             "id": 3,
-            "text": "My Number guessing game",
+            "text": "My Number guessing game test",
             "img": "number-guessing-game.png",
             "url": "https://andyhkgswe.github.io/js--number-guessing-game/"
         }
