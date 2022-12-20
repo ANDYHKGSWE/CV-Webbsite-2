@@ -1,0 +1,39 @@
+{
+    "work_experience": [
+        {
+            "id": 1,
+            "title": "Technical advisor in Sweden at Expo 2020 in Dubai",
+            "roles": ["Hardware Tester", "Software Tester", "Visitor Management"]
+        },
+        {
+            "id": 2,
+            "title": "Operations Manager",
+            "roles": ["Smash & Grab Café - Restaurant and Catering", "Purchasing Responsibility", "Menu Planning", "Accounting"]
+        },
+        {
+            "id": 3,
+            "title": "Shop Assistant - M-Perfect",
+            "roles": ["Cashiering", "Accounting", "Storefront Exposure"]
+        }
+    ],
+    "portfolio": [
+        {
+            "id": 1,
+            "text": "My first grid layout",
+            "img": "portfolio-first.grid.layout.png",
+            "url": "https://github.com/ChasAcademy-Andy-Cheung/first-grid-layout/tree/main/first%20grid%20layout"
+        },
+        {
+            "id": 2,
+            "text": "My Split check with tips app",
+            "img": "splitcheck.png",
+            "url": "https://andyhkgswe.github.io/ANDYHKGSWE-js--splitta-notan/"
+        },
+        {
+            "id": 3,
+            "text": "My Number guessing game",
+            "img": "number-guessing-game.png",
+            "url": "https://andyhkgswe.github.io/js--number-guessing-game/"
+        }
+    ]
+}
