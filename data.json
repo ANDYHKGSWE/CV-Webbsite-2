@@ -34,6 +34,25 @@
             "text": "My Number guessing game",
             "img": "number-guessing-game.png",
             "url": "https://andyhkgswe.github.io/js--number-guessing-game/"
+        },
+        {
+            "id": 4,
+            "text": "My TODO list",
+            "img": "todo.png",
+            "url": "https://andyhkgswe.github.io/js--fetch-todo-list/"
+        },
+        {
+            "id": 5,
+            "text": "My Rock Paper Scissor Game",
+            "img": "rock-paper-scissors.png",
+            "url": "https://andyhkgswe.github.io/js--rock-paper-scissor/"
+        }
+        ,
+        {
+            "id": 6,
+            "text": "My Array Methods",
+            "img": "array-methods.png",
+            "url": "https://github.com/ANDYHKGSWE/js--array-methods"
         }
     ]
 }
